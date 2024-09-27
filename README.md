@@ -12,8 +12,6 @@
 - 📫 How to reach me **rxsyco30@gmail.com**
 <img align="right" alt="r2xsyco" with = "400" src="https://user-images.githubusercontent.com/79422726/209227483-e2a272d5-1254-4828-823e-674ba891e8eb.gif">
 
-<img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/towitter.com/r2xsyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="towitter.com/r2xsyco" height="30" width="40" /></a>

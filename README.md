@@ -1,5 +1,4 @@
 <h1 align="center">I'm Bardia</h1>
-<img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r2xsyco&label=Profile%20views&color=0e75b6&style=flat" alt="r2xsyco" /> </p>
 

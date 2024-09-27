@@ -9,8 +9,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/r2xsyco](https://github.com/r2xsyco)
 - 💬 Ask me about **Penetration testing**
 - 📫 How to reach me **rxsyco30@gmail.com**
-<img align="right" alt="r2xsyco" with = "400" src="https://user-images.githubusercontent.com/79422726/209227483-e2a272d5-1254-4828-823e-674ba891e8eb.gif">
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +18,8 @@
 <a href="https://www.youtube.com/c/@id_qci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@id_qci" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/QfhZutHD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/QfhZutHD" height="30" width="40" /></a>
 </p>
+<img align="right" alt="r2xsyco" with = "400" src="https://user-images.githubusercontent.com/79422726/209227483-e2a272d5-1254-4828-823e-674ba891e8eb.gif">
+
 <img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <h3 align="left">Languages and Tools:</h3>

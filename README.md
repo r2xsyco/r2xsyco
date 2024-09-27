@@ -32,12 +32,15 @@
 <img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r2xsyco&show_icons=true&locale=en&layout=compact" alt="r2xsyco" /></p>
+<img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r2xsyco&show_icons=true&locale=en" alt="r2xsyco" /></p>
+<img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r2xsyco&" alt="r2xsyco" /></p>
-
-
+<img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <img align="right" alt="r2xsyco" with = "400" src="https://user-images.githubusercontent.com/79422726/209217641-7e2f383c-e008-42c6-ab40-be2aa906f35c.png">
+<img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 <img align="middle" alt="r2xsyco" with = "400" src="https://user-images.githubusercontent.com/79422726/209227780-fbf22e91-a02c-4c07-916e-4dec48e97ff0.gif">

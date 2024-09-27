@@ -1,9 +1,6 @@
 <h1 align="center">I'm Bardia</h1>
 <img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-<img align="right" alt="r2xsyco" with = "400" src="https://user-images.githubusercontent.com/79422726/209227483-e2a272d5-1254-4828-823e-674ba891e8eb.gif">
-<img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r2xsyco&label=Profile%20views&color=0e75b6&style=flat" alt="r2xsyco" /> </p>
 
 - 🔭 I’m currently working on [GitHub](https://github.com/r2xsyco)
@@ -13,6 +10,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/r2xsyco](https://github.com/r2xsyco)
 - 💬 Ask me about **Penetration testing**
 - 📫 How to reach me **rxsyco30@gmail.com**
+<img align="right" alt="r2xsyco" with = "400" src="https://user-images.githubusercontent.com/79422726/209227483-e2a272d5-1254-4828-823e-674ba891e8eb.gif">
+
 <img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <h3 align="left">Connect with me:</h3>

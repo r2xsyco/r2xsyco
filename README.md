@@ -2,8 +2,7 @@
 <img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <img align="right" alt="r2xsyco" with = "400" src="https://user-images.githubusercontent.com/79422726/209227483-e2a272d5-1254-4828-823e-674ba891e8eb.gif">
-
-
+<img align="right" alt="r2xsyco" with = "400" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r2xsyco&label=Profile%20views&color=0e75b6&style=flat" alt="r2xsyco" /> </p>
 
